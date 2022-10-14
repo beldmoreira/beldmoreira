@@ -16,7 +16,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL&logoColor=4169E1)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=C21325)
   ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress&logoColor=17202C)
   ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
  
