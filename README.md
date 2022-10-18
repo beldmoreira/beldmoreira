@@ -1,7 +1,8 @@
 ### Hi there 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
----
 
+## Overview
+ 👩🏻‍💻 Full Stack Software Engineer
 
 ## 🚀 My Skills
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -27,7 +28,10 @@
    ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
    ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnubash)
   
+### 📊 GitHub Stats
 
+![Isabela Moreira's github stats](https://github-readme-stats.vercel.app/api?username=beldmoreira&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beldmoreira&theme=dracula&layout=compact)
 ---
 <p align="left">
   <a href="https://www.linkedin.com/in/belmoreira/" alt="Linkedin">
