@@ -1,8 +1,11 @@
-### Hi there 👋
+# Hi there! I'm Isabela Moreira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 ## Overview
  👩🏻‍💻 Full Stack Software Engineer
+ 
+ 📚 Passionate about alternative comic books and cats 🐈‍ 🐈‍⬛
 
 ## 🚀 My Skills
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
