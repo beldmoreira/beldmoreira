@@ -33,8 +33,8 @@
   
 ### 📊 GitHub Stats
 
-![Isabela Moreira's github stats](https://github-readme-stats.vercel.app/api?username=beldmoreira&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beldmoreira&theme=dracula&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beldmoreira&hide=shell&layout=compact&theme=dracula" height="130px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=beldmoreira&theme=dracula&custom_title=Github%20Stats&include_all_commits=true&count_private=true&hide=contribs&show_icons=true&cache_seconds=3800" height="130px"/>
 ---
 <p align="left">
   <a href="https://www.linkedin.com/in/belmoreira/" alt="Linkedin">
