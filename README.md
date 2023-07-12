@@ -13,6 +13,8 @@
   ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![Spring](https://img.shields.io/badge/Spring-333333?style=flat&logo=spring)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=Node.JS&logoColor=339933)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express&logoColor=#000000)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
